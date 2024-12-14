@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install pyautogui
+pip install numpy
+pip install pillow
+pip install pytesseract
+pip install opencv-python
